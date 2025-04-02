@@ -114,3 +114,11 @@ Copyright (c) 2016 Ali Shakiba
 Available under the MIT license
 
 *Keywords: svg, export, rasterize, converter, png, jpeg, jpg, cli, command-line, inkscape, illustrator, coreldraw*
+
+---
+
+### Sponsors
+
+<a href="https://link.piqnt.com/link/qripcgt9t0iw">
+  <img width="80" height="80" src="https://link.piqnt.com/img/qripcgt9t0iw" />
+</a>
